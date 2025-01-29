@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1738123702,
+	"version": 1738128642,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -28,8 +28,6 @@
 		"media/tap.ogg",
 		"media/light beam.m4a",
 		"media/light beam.ogg",
-		"media/game over.m4a",
-		"media/game over.ogg",
 		"media/light beam end.m4a",
 		"media/light beam end.ogg",
 		"media/light beam mid.m4a",
@@ -38,8 +36,10 @@
 		"media/light beam start.ogg",
 		"media/ghost sound.m4a",
 		"media/ghost sound.ogg",
-		"media/game over (1).m4a",
-		"media/game over (1).ogg",
+		"media/game over 2.m4a",
+		"media/game over 2.ogg",
+		"media/game over 1.m4a",
+		"media/game over 1.ogg",
 		"media/bg.m4a",
 		"media/bg.ogg",
 		"icon-16.png",
